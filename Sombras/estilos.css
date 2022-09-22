@@ -1,0 +1,12 @@
+body{
+    background-color: #eee;
+}
+
+.box{
+    box-shadow: 1px 2px 8px rgba(0,0,0,0.4) inset; /*El ultimo (8px) número es para que crezca la sombra. Inset es para que la sobra vaya para adentro, un efecto de hundido*/
+}
+
+.text{
+    color: white;
+    text-shadow: 2px 1px 2px rgba(160,0,0,0.3);
+}
