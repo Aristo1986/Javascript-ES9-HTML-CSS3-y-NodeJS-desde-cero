@@ -1,0 +1,15 @@
+body{
+    background-color: #eee;
+}
+/*
+.fondo{
+    height: 400px;
+    background: gray url("https://placekitten.com/200/300") no-repeat 
+    left top fixed;
+    background-size: cover;
+}
+*/
+
+.fondo{
+    background-color: rgba(75,105,120,0.3);
+}
