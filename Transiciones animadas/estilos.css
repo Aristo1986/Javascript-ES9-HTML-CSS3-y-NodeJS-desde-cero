@@ -14,9 +14,12 @@ body{
     /*transform: translate(50px, 10px);*/
     /*transform: scale(0.9,0.9);*/
     /*transform: skew(25deg, 10deg);*/
-    
+    /*transition: width 0.3s;*/
+    transition: 0.3s;
+    transition-delay: 0.1s 0.5s;
 }
 
 .box:hover{
-    transform: scale(1.05,1.05)
+    transform: scale(1.05,1.05);
+    background-color: rgba(0,0,0,0.1);
 }
