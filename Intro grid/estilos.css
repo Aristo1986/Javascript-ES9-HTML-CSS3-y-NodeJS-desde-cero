@@ -1,0 +1,14 @@
+body{
+    background-color: #eee;
+}
+
+.grid{
+    display: grid;
+    grid-template-rows: 50px 100px;
+    grid-template-columns: 90PX 50PX 120PX;
+    grid-template-rows: minmax(100PX, 50%);
+}
+
+.element{
+    background-color: red;
+}

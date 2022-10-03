@@ -1,0 +1,9 @@
+body{
+    width:200px;
+}
+
+.flex{
+    display: flex; /* pone los bloques DIV en un solo contenedor uno al lado del otro*/
+    flex-wrap: wrap;
+}
+
